@@ -1,2 +1,2 @@
-# Cognidron_EEG_Requerimientos
-Documento de requerimientos de software para el sistema Cognidron_EEG
+# Cognidron_EEG_
+Documentos de requerimientos y diseño de software para el sistema Cognidron_EEG
